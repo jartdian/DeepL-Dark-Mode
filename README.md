@@ -1,2 +1,2 @@
 # DeepL-Dark-Mode
-Mozilla Dark Mode extension for the DeepL website
+Firefox extension that adds Dark Mode to the DeepL website
